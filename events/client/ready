@@ -1,0 +1,3 @@
+module.exports = () => {
+  console.log("babybot is on, use it");
+};
